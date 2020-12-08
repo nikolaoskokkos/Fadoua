@@ -1,5 +1,5 @@
-xarray==0.16.1
-numpy==1.19.4
-cartopy==0.18.0
 matplotlib==3.3.2
+numpy==1.19.4
+xarray==0.16.1
+Cartopy==0.18.0
 cmocean==2.0
